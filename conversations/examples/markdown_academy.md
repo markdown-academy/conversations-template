@@ -8,7 +8,7 @@ Hi :wave: It looks you like our conversations, and you would like to create one 
 ## What a Shame
 What a shame! But it's your choice to make this bot sad :crying_cat_face:
 
-[> Quit]_(_quit)
+[> Quit](_quit)
 
 ## Title
 So every conversation starts with the title and title is represented with a headline at the beginning of the conversation document such as in the following example
