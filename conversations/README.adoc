@@ -1,0 +1,3 @@
+= Conversations Folder =
+
+Create your conversations within this folder in any depth. You can create subfolders within this folder to organize your conversations.
