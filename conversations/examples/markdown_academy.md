@@ -83,7 +83,7 @@ It's simple. You just need to use the following syntax:
 
 ## This is an anchor
 
-You need to remember how are the anchors created in Markdown - they start with the hash sign `#` and then they are followed by the anchor name in lower case and with dashes instead of spaces.
+You need to remember how are the anchors created in Markdown - they start with the hash sign `#` and then they are followed by the title in lower case and with dashes instead of spaces.
 
 Don't worry, any modern IDE will help you with that.
 
@@ -91,7 +91,7 @@ Don't worry, any modern IDE will help you with that.
 
 ## Non-Interactive Jumps
 
-Sometimes you want to jump to a specific part of the conversation without any user interaction. This is useful when your conversation hs many paths, and you want to skip some of the following paragraphs.
+Sometimes you want to jump to a specific part of the conversation without any user interaction. This is useful when your conversation has many paths, and you want to skip some of the following paragraphs.
 
 You can do that by using the following syntax:
 
@@ -103,7 +103,7 @@ This will take you directly to the anchor without any user interaction.
 
 Are you bored already? Maybe you want to quit the conversation?
 
-[> :bored: Yes, please!](#not-so-fast) [> :smiley: No, I'm having fun!](#quitting-the-conversation)
+[:bored: Yes, please!](#not-so-fast) [:smiley: No, I'm having fun!](#quitting-the-conversation)
 
 ## Not so fast
 
