@@ -51,8 +51,8 @@ The following formatting options are supported within the conversation parts:
 
 - *Italic Text*: Wrap the text with asterisks (`*`) to display it in italic format.
 - **Bold Text**: Wrap the text with double asterisks (`**`) to display it in bold format.
-- `Code Style`: Wrap the text with backticks (`\``) to display it as code style.
-- Block Code: Use three backticks (```) to enclose a block of code. The code block can span multiple lines.
+- `Code Style`: Wrap the text with backticks (&#x0060;) to display it as code style.
+- Block Code: Use three backticks (&#x0060;&#x0060;&#x0060;) to enclose a block of code. The code block can span multiple lines.
 - Quotes: Use a greater-than sign (`>`) at the beginning of a line to create a blockquote.
 - Ordered Lists: Use numbers followed by a period (`1.`, `2.`, etc.) to create an ordered list.
 - Bullet Lists: Use asterisks (`*`) or hyphens (`-`) to create bullet lists.
