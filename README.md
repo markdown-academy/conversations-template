@@ -60,6 +60,16 @@ This is the last conversation
 
 ```
 
+## Testing Conversation
+
+You can start a conversation by running the following command:
+
+```bash
+./start_conversation.sh conversations/markdown_academy.md
+``` 
+
+This will walk you through the conversation in a terminal. Of course, things like formatting or images won't work, but you can verify the flow of the conversation.
+
 ## Example Conversation
 
 The following is an example conversation document:
